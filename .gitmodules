@@ -1,0 +1,3 @@
+[submodule "aamuriablog/themes/terminal"]
+	path = aamuriablog/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git

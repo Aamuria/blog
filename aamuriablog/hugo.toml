@@ -1,0 +1,5 @@
+baseURL = 'https://blog.mcfarlane.info'
+languageCode = 'en-us'
+title = 'blog.mcfarlane.infoH'
+theme = "terminal"
+
